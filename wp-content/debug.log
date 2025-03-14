@@ -37,3 +37,10 @@
 [14-Mar-2025 14:22:51 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
 [14-Mar-2025 14:23:01 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
 [14-Mar-2025 14:23:11 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[14-Mar-2025 14:23:39 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/blocks/blocks-json.php on line 6643
+[14-Mar-2025 14:23:39 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 94208 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 507
+[14-Mar-2025 14:25:11 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[14-Mar-2025 14:25:31 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[14-Mar-2025 14:25:36 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[14-Mar-2025 14:25:37 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
+[14-Mar-2025 14:25:37 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-admin/includes/plugin.php on line 2156

@@ -2,7 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/experience-authentic-chinese-cuisine-at-red-lotus/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/try-our-signature-bubble-tea-a-perfect-pairing/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/hosting-an-event-let-red-lotus-cater-for-you/
         </loc>
     </url>
     <url>

@@ -52,6 +52,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/peking-duck/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/kung-pao-chicken/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mapo-tofu/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>

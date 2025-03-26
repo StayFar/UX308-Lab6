@@ -45,3 +45,4 @@
 [14-Mar-2025 14:25:37 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 458752 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-includes/l10n/class-wp-translation-file-php.php on line 24
 [14-Mar-2025 14:25:37 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-admin/includes/plugin.php on line 2156
 [14-Mar-2025 14:34:09 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 26
+[14-Mar-2025 14:37:00 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX308-Lab6/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 26
